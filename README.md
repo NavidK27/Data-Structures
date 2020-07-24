@@ -1,4 +1,4 @@
-# Data Stuctures
+# Data Structures
 
 Codes of the following Data Structures:
 
